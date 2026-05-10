@@ -203,3 +203,35 @@ body{
     font-weight: bold;
 }
 /*seccion 3 final*/
+
+
+/*seccion 4 inicio*/
+.footer{
+    margin: 0px 50px 50px 50px;    
+    width: 75%;
+    background: white;
+    padding: 60px 80px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 40px;
+}
+
+.footer-columna{
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+}
+
+.footer-columna h4{
+    color: #252b42;
+    margin-bottom: 10px;
+}
+
+.footer-columna a,
+.footer-columna p{
+    text-decoration: none;
+    color: #737373;
+    font-size: 14px;
+}
+/*seccion 4 final*/
