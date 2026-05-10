@@ -179,3 +179,27 @@ body{
     left: 20px;
 }
 /*seccion 2 final*/
+
+
+/*seccion 3 inicio*/
+.columnas{
+    margin: 0px 50px 50px 50px;    
+    width: 75%;
+    background: white;
+    padding: 70px 80px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.columnas-caja h2{
+    font-size: 50px;
+    color: #96bb7c;
+}
+
+.columnas-caja p{
+    color: #252b42;
+    margin-top: 10px;
+    font-weight: bold;
+}
+/*seccion 3 final*/
